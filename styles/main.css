@@ -9,7 +9,8 @@ h1 {
   position: absolute;
   width: 100%;
   z-index: 1;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
+color: grey;
 }
 
 a {
