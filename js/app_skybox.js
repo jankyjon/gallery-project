@@ -273,10 +273,10 @@ function loadModels() {
   // const Position3 = new THREE.Vector3( 0,0, 0 );
   // loader.load( 'models/amythyst_cleaned.glb', gltf => onLoad( gltf, Position3, SkyboxMaterial), onProgress, onError );
 
-  const Position4 = new THREE.Vector3( 40,0, 0 );
-  loader.load( 'models/amythyst_cleaned.glb', gltf => onLoad( gltf, Position4, refractorySkybox), onProgress, onError );
-  //const storkPosition = new THREE.Vector3( 0, -2.5, -10 );
-  //loader.load( 'models/Stork.glb', gltf => onLoad( gltf, storkPosition ), onProgress, onError );
+  // const Position4 = new THREE.Vector3( 40,0, 0 );
+  // loader.load( 'models/amythyst_cleaned.glb', gltf => onLoad( gltf, Position4, refractorySkybox), onProgress, onError );
+  // //const storkPosition = new THREE.Vector3( 0, -2.5, -10 );
+  // //loader.load( 'models/Stork.glb', gltf => onLoad( gltf, storkPosition ), onProgress, onError );
 
 }
 
