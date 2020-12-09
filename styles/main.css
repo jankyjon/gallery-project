@@ -7,9 +7,10 @@ body {
 
 h1 {
   position: absolute;
+  text-align:left;
   width: 100%;
   z-index: 1;
-  font-size: 1.1rem;
+  font-size: .6rem;
 color: grey;
 }
 
